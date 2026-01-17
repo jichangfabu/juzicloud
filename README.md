@@ -1,79 +1,36 @@
-# juzicloud桔子云官网地址
+# JuziCloud 桔子云官网地址
 
-最新地址：[juzi610.com](https://juzi62.xyz/auth/register?code=jPPo)
+最新官网：[juzi610.com](https://juzi62.xyz/auth/register?code=jPPo)
 
-## 简介
+## 服务概述
 
-桔子云(JuziCloud)，又称桔子云加速器，是一家专业的SSR/V2Ray机场，速鹰旗下老站，拥有近50个付费节点，全部使用CN2/BGP隧道中转和IPLC国际专线，套餐灵活，性价比高，适合各类人群使用。
+桔子云 (JuziCloud) 是一款提供优质SSR/V2Ray服务的加速器平台，隶属于速鹰旗下。拥有50多个付费节点，采用高效的CN2/BGP隧道及IPLC国际专线，旨在为全球用户提供稳定快速的网络体验。无论是重度视频用户，还是轻度需求的短期用户，都可以在桔子云找到适合自己的流量套餐。
 
-无论您是重度视频用户，或仅有短期需求的用户或者对流量使用频率低的用户，都可以在桔子云(JuziCloud)找到适合您的流量套餐。
-
-桔子云曾经还做过免费公益机场，后来迫于成本压力而停运，转成完全收费的优质机场。
+桔子云起初作为公益性服务提供，后来因成本压力转型为收费服务，但始终致力于为用户提供高质量的加速体验。
 
 ## 桔子云优惠码
 
-特惠包年7折优惠代码：JJ1234 
+**7折优惠代码**：JJ1234 
 
-结束时间2026.1.31
+**有效期至**：2026年1月31日
 
 ## 特色
 
-<ul>
-<li>流量充足，价格便宜，线路节点档次分明，覆盖绝大多数人群的使用需求；</li>
-<li>支持主流客户端 SSR/V2Ray 订阅链接；</li>
-<li>拥有遍布全球的CN2 GIA/BGP/IPLC内网专线等优质线路节点；</li>
-<li>国内采用CN2/BGP入口，隧道中转，极速稳定；</li>
-<li>付费节点全部解锁Nitflix/HULU/HBO等国外流媒体；</li>
-<li>支持工单、在线客服和TG群交流。</li>
-</ul>
+- 提供丰富的流量套餐，价格合理，满足大多数用户需求
+- 支持SSR/V2Ray协议，兼容主流客户端，便捷订阅链接
+- 拥有全球范围的CN2 GIA/BGP/IPLC等优质网络节点
+- 国内接入采用CN2/BGP中转，确保极速稳定连接
+- 所有付费节点解锁Netflix、Hulu、HBO等海外流媒体
+- 提供专业客服支持，包括工单和TG群互动
 
-## 套餐列表
+## 套餐详情
 
-<table style="width: 988px;">
-<tbody>
-<tr>
-<td style="text-align: center; width: 165px;">套餐类型</td>
-<td style="text-align: center; width: 86px;">月流量</td>
-<td style="text-align: center; width: 112px;">在线设备</td>
-<td style="text-align: center; width: 82px;">月付</td>
-<td style="text-align: center; width: 543px;">线路</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">入门版</td>
-<td style="text-align: center; width: 86px;">100G</td>
-<td style="text-align: center; width: 112px;">2</td>
-<td style="text-align: center; width: 82px;">19.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版节点</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">基本版</td>
-<td style="text-align: center; width: 86px;">200G</td>
-<td style="text-align: center; width: 112px;">3</td>
-<td style="text-align: center; width: 82px;">29.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版/基础版节点</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">标准版</td>
-<td style="text-align: center; width: 86px;">350G</td>
-<td style="text-align: center; width: 112px;">5</td>
-<td style="text-align: center; width: 82px;">39.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版/基础版/标准版节点</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">旗舰版</td>
-<td style="text-align: center; width: 86px;">600G</td>
-<td style="text-align: center; width: 112px;">8</td>
-<td style="text-align: center; width: 82px;">59.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版/基础版/标准版节点/IPLC专线</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">旗舰版大流量</td>
-<td style="text-align: center; width: 86px;">1200G</td>
-<td style="text-align: center; width: 112px;">10</td>
-<td style="text-align: center; width: 82px;">99.9元</td>
-<td style="text-align: center; width: 543px;">除以上所有节点外，还有老板专线</td>
-</tr>
-</tbody>
-</table>
+| 套餐类型    | 月流量  | 支持设备 | 月付价格 | 套餐节点 |
+|-------------|---------|----------|----------|----------|
+| 入门版      | 100G    | 2台设备  | ￥19.9   | 国内中转/入门版节点 |
+| 基本版      | 200G    | 3台设备  | ￥29.9   | 国内中转/入门版/基础版节点 |
+| 标准版      | 350G    | 5台设备  | ￥39.9   | 国内中转/入门版/基础版/标准版节点 |
+| 旗舰版      | 600G    | 8台设备  | ￥59.9   | 国内中转/入门版/基础版/标准版节点/IPLC专线 |
+| 旗舰版大流量 | 1200G   | 10台设备 | ￥99.9   | 除以上所有节点外，还有老板专线 |
 
-桔子云所有套餐全部采用CN2/BGP隧道中转，旗舰版套餐还有IPLC内网专线和企业老板专线节点，而且桔子云机场的入门版套餐节点的速度和稳定性也非常优秀。
+桔子云的所有套餐均采用CN2/BGP隧道中转，旗舰版套餐特别提供IPLC内网专线及老板专线节点，即便是入门版套餐，速度和稳定性也是非常出色的。
